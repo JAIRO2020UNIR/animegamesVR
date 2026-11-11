@@ -51,3 +51,12 @@ NOTAS
     que quedan solo dentro de su teléfono.
   - Si la cámara no funciona, revise: Ajustes del teléfono > Aplicaciones > Chrome > Permisos > Cámara.
   - "Escenario anime" funciona sin cámara; "Mundo real" necesita la cámara.
+
+
+ACTUALIZAR EL JUEGO EN GITHUB (cada vez que reciba una versión nueva)
+  1. Descomprima el .zip nuevo y abra la carpeta anime-land-ar.
+  2. En su repositorio: Add file > Upload files. Arrastre index.html, sw.js, version.json y
+     manifest.webmanifest (los que tienen el mismo nombre se reemplazan solos). Commit changes.
+  3. Espere 1 a 3 minutos (pestaña Actions en verde).
+  4. En el teléfono, abra el juego: arriba aparecerá "Hay una versión nueva... Toque aquí para
+     actualizar". Tóquelo. Revise abajo a la izquierda del menú que el número de versión sea el nuevo.

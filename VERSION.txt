@@ -1,0 +1,23 @@
+ANIME LAND AR - VERSIÓN 26 (10 de noviembre de 2026)
+=====================================================
+
+CÓMO SABER QUÉ VERSIÓN TIENE SU TELÉFONO
+  - En el menú principal, abajo a la izquierda, aparece "Versión 26 · 10 de noviembre de 2026".
+  - También se ve en la pantalla de Pausa y en la pestaña Diagnóstico.
+  - Si en su teléfono aparece un número MENOR que 26, el teléfono todavía muestra una copia vieja.
+
+AVISO AUTOMÁTICO DE ACTUALIZACIÓN (desde esta versión)
+  - Cada vez que abre el juego desde GitHub Pages, este revisa el archivo version.json del servidor.
+  - Si en GitHub hay una versión más nueva, arriba aparece:
+    "Hay una versión nueva (27). Toque aquí para actualizar".
+  - Al tocarlo, el juego borra la copia vieja y carga la nueva.
+
+QUÉ INCLUYE ESTA VERSIÓN
+  - Mundo real: giroscopio corregido (se activa aunque esté la pantalla completa), villanos que
+    aparecen frente a usted y vienen directo, ayuda de puntería y arrastre del dedo para apuntar.
+  - Armas .glb: se giran solas si vienen al revés.
+  - Escenarios más grandes y villanos que no se atascan.
+  - Arsenal Acero Azur, pantalla de Equipamiento y carga de armas .glb.
+
+ARCHIVOS QUE DEBE SUBIR A GITHUB EN CADA ACTUALIZACIÓN
+  index.html, sw.js, version.json y manifest.webmanifest (y la carpeta icons la primera vez).
