@@ -198,5 +198,13 @@ ESCENARIOS MÁS GRANDES Y VILLANOS QUE NO SE ATASCAN
   [ ] 94. Los villanos rodean casas, rocas y árboles por el camino más corto y llegan hasta usted;
           si alguno queda trabado, se libera saltando o moviéndose de lado.
 
+CORRECCIONES: MUNDO REAL Y ARMAS .GLB
+  [ ] 95. (Teléfono) Mundo real con pantalla completa activada: al mover el teléfono, la mira y los
+          villanos se mueven con la imagen de la cámara. Los villanos aparecen frente a usted y vienen
+          directo. Si el teléfono pregunta por el acceso al movimiento, toque "Permitir".
+  [ ] 96. (Teléfono) Apuntar es más fácil: si la mira queda un poco al costado del villano, igual acierta.
+  [ ] 97. Arma .glb: si venía al revés, el juego la gira sola. Si aún quedara al revés, use
+          "Invertir dirección" en Equipamiento > Ajustar arma propia.
+
 Cuando todo esté marcado, siga LEEME-GITHUB.txt para publicarla.
 Si algo falla, anote el número del punto y envíe una captura.
