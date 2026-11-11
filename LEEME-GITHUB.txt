@@ -1,0 +1,53 @@
+ANIME LAND AR - Cómo publicarla en GitHub Pages (gratis) e instalarla en el celular
+==================================================================================
+
+Contenido de esta carpeta (súbalo TODO, tal cual):
+  index.html            La app completa (incluye el motor 3D: no necesita internet para jugar)
+  manifest.webmanifest  Nombre e ícono para instalarla como app
+  sw.js                 Guarda la app en el teléfono para usarla sin conexión
+  icons/                Íconos de la app
+
+PASO 1 - Crear la cuenta (una sola vez)
+  1. Entre a https://github.com y pulse "Sign up". Cree su usuario (por ejemplo: miusuario).
+
+PASO 2 - Crear el repositorio
+  1. Arriba a la derecha pulse "+" > "New repository".
+  2. Repository name: anime-land
+  3. Marque "Public" (en la cuenta gratis, Pages solo funciona con repositorios públicos).
+  4. Pulse "Create repository".
+
+PASO 3 - Subir los archivos
+  1. En la página del repositorio, pulse "uploading an existing file"
+     (o "Add file" > "Upload files").
+  2. Arrastre TODOS los archivos de esta carpeta, incluida la carpeta "icons".
+     En el PC puede arrastrar la carpeta completa; GitHub conserva las subcarpetas.
+  3. Abajo pulse "Commit changes".
+
+PASO 4 - Activar GitHub Pages
+  1. En el repositorio, pulse "Settings" > en el menú izquierdo "Pages".
+  2. En "Build and deployment" > Source: "Deploy from a branch".
+  3. Branch: "main" y carpeta "/ (root)". Pulse "Save".
+  4. Espere 1 o 2 minutos y recargue: aparecerá la dirección, por ejemplo
+       https://miusuario.github.io/anime-land/
+
+PASO 5 - Instalarla en el celular
+  1. Abra esa dirección en Chrome (Android) o Safari (iPhone).
+  2. Android: menú ⋮ > "Instalar app" (o "Agregar a la pantalla principal").
+     iPhone: botón Compartir > "Agregar a inicio".
+  3. Ábrala desde el ícono. La primera vez necesita internet; después funciona sin conexión.
+  4. Cargue sus avatares .vrm (una sola vez) y acepte los permisos de cámara y movimiento.
+
+PARA ACTUALIZAR la app más adelante
+  - Suba el nuevo index.html al mismo repositorio ("Add file" > "Upload files"), reemplazando el anterior.
+  - El teléfono toma la versión nueva la próxima vez que abra la app con internet.
+  - Sus avatares y su progreso se conservan.
+
+PARA SUS AMIGOS
+  - Solo envíeles la dirección https://miusuario.github.io/anime-land/
+  - Cada uno carga sus propios avatares .vrm en su teléfono (nunca se suben a internet).
+
+NOTAS
+  - El repositorio es público: cualquiera con la dirección puede abrir la app, pero NO sus avatares,
+    que quedan solo dentro de su teléfono.
+  - Si la cámara no funciona, revise: Ajustes del teléfono > Aplicaciones > Chrome > Permisos > Cámara.
+  - "Escenario anime" funciona sin cámara; "Mundo real" necesita la cámara.

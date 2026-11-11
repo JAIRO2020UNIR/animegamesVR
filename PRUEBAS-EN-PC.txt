@@ -1,0 +1,202 @@
+ANIME LAND AR - Prueba en el PC antes de subir a GitHub
+=======================================================
+
+CÓMO ABRIRLA EN EL PC
+  1. Descomprima el ZIP (clic derecho > Extraer todo).
+  2. Dentro de la carpeta "anime-land-ar", abra index.html con Google Chrome o Microsoft Edge
+     (clic derecho > Abrir con > Chrome). Es el MISMO archivo que luego subirá a GitHub.
+  3. Cargue sus avatares .vrm y pruebe.
+
+CONTROLES EN EL PC
+  Haga clic en la pantalla del juego para que el mouse controle la mira.
+  Mouse: apuntar               Clic izquierdo: disparar      Clic derecho: mira con zoom   Ctrl: bloquear
+  W A S D: caminar             Shift: correr                 Espacio: saltar (mantener = más alto)
+  F: golpe     G: patada       E: poder especial             R: recargar
+  1-4: armas de sus ranuras     Q: siguiente (mantener = rueda de armas)   C: cámara   Esc: pausa
+
+CON MANDO (PlayStation, Xbox o genérico)
+  Joystick izquierdo: moverse              Joystick derecho: girar cámara y apuntar
+  R2 / RT: disparar                        L2 / LT: mira con zoom      L1 / LB: bloquear
+  X / A: saltar (mantener = más alto)      Cuadrado / X: golpear
+  Triángulo / Y: poder especial            Círculo / B: cambiar arma
+  Cruceta ◀: arma anterior                 R1 / RB: arma siguiente     Círculo mantenido: rueda de armas
+  Cruceta abajo: recargar                  Options / Start: pausar
+  R3 (presionar el stick derecho): patada  Cruceta arriba: cámara 1.ª / 3.ª persona
+  Todos los botones se pueden reasignar en Controles > Botones del mando
+  Correr: inclinar el joystick izquierdo A FONDO (o presionar L3)
+  Cruceta ◀ ▶: también giran la cámara · R3 o cruceta arriba: cámara 1.ª / 3.ª persona
+  En los menús (sin mouse): cruceta o joystick para moverse en cualquier dirección, X / A para elegir,
+  Círculo / B para volver, Start para jugar. El botón seleccionado se ve con un borde dorado.
+
+LISTA DE APROBACIÓN (marque cada punto)
+  [ ] 1. La tarjeta "Compatibilidad" muestra ✔ en Página segura, Guardar avatares y Motor 3D.
+  [ ] 2. Cargar avatares: se abren sus archivos y aparece "N avatares guardados".
+  [ ] 3. Cierre y vuelva a abrir index.html: los avatares siguen guardados.
+  [ ] 4. Modo Niveles: aparece la lista de 10 niveles; solo el 1 está desbloqueado.
+  [ ] 5. Nivel 1: el escenario anime lo rodea en 360° al girar con el mouse; se ve el letrero ANIME LAND.
+  [ ] 6. Los enemigos aparecen, caminan hacia usted, golpean y lanzan bolas de energía.
+  [ ] 7. Ningún enemigo lo daña si no está en pantalla (las flechas rojas avisan dónde está).
+  [ ] 8. Disparar, golpear, bloquear, recargar y cambiar de arma funcionan.
+  [ ] 9. Disparo a la cabeza muestra "¡Cabeza!" y hace el doble de daño.
+  [ ] 10. Al cumplir la meta, el nivel se completa, da estrellas y desbloquea el siguiente.
+  [ ] 11. Nivel 3: aparece el jefe con su barra de vida y, al derrotarlo, se completa el nivel.
+  [ ] 12. Si pierde toda la vida aparece "¡Has caído!" con Reintentar / Elegir nivel.
+  [ ] 13. Modo Supervivencia: oleadas infinitas y récord.
+  [ ] 14. "Mi imagen": elija una imagen y verifique que lo rodea.
+  [ ] 15. Transmisión en vivo: su @usuario aparece con la insignia EN VIVO.
+  [ ] 16. Sonidos: disparos, golpes, anuncios de nivel (haga un clic primero).
+  [ ] 17. Fluidez: sin trabones con 2 o 3 enemigos (si hay lag, pruebe calidad "Ahorro").
+
+MUNDO 3D - VALLE DEL VIENTO (elija "Mundo 3D" en Modo y mundo)
+  [ ] 18. Se construye el valle (unos segundos): aldea, molino girando, árboles, rocas, montañas y nubes.
+  [ ] 19. W/A/S/D: camina por el valle; el mouse gira la vista.
+  [ ] 20. No se pueden atravesar casas, rocas, árboles, el pozo, los barriles ni los faroles; al chocar se desliza.
+  [ ] 21. No se puede salir del valle (hay un límite invisible antes de las colinas).
+  [ ] 22. Los enemigos rodean los obstáculos para llegar a usted.
+  [ ] 23. Sus disparos se estrellan contra casas y rocas (destello dorado) y no dañan a quien está detrás.
+  [ ] 24. Las bolas de energía de los enemigos chocan contra las estructuras: cúbrase detrás de una roca.
+  [ ] 25. Sombras del sol en el piso, el pasto se mece con el viento, humo en las chimeneas, polen en el aire.
+  [ ] 26. Calidad: "Alta" (más pasto y sombras finas), "Media", "Ahorro" (sin sombras, para teléfonos sencillos).
+
+MEJORAS DE JUEGO
+  [ ] 27. Cada villano muestra su nombre y su barra de vida sobre la cabeza.
+  [ ] 28. "Villanos y poderes": cargar villanos, activarlos, elegir poderes y color.
+  [ ] 29. Bulma (o el villano con Pistola) dispara balas con una pistola en la mano.
+  [ ] 30. Naruto (o el villano con esos poderes) lanza kunais, estrellas ninja y carga la Esfera espiral.
+  [ ] 31. Monedas: aparecen en el valle y caen de los villanos; se recogen caminando.
+  [ ] 32. Tienda (tarjeta 4): comprar Escopeta (150), Rifle láser (300) y Cañón de energía (500).
+  [ ] 33. Cambiar de arma en juego: rueda, Q, 1-5, botón Arma o Triángulo del mando.
+  [ ] 34. Mapa redondo arriba (mundo 3D): casas, rocas, monedas y villanos.
+  [ ] 35. Cámara en tercera persona (C, botón 📷 o L1) y saltos (Espacio, botón Saltar o X).
+  [ ] 36. Mando conectado: aparece el aviso "Mando conectado" y todos los botones responden.
+
+ENTREGA 2 - NUEVOS MUNDOS (Modo y mundo: solo quedan "Mundo 3D" y "Mundo real")
+  [ ] 37. Nivel 2 - Santuario de los Cerezos: pasillo de portales torii, faroles de piedra, cerezos en flor
+          con pétalos cayendo, estanque con peces koi y puente rojo, bambú y santuario al fondo.
+  [ ] 38. Nivel 3 - Arena del Gran Torneo: ring de piedra, pilares con fuego, público animado en las
+          gradas, estandartes con emblemas propios y gran puerta. Aparece el jefe al final.
+  [ ] 39. Nivel 4 - Aldea Ninja del Bosque: árboles gigantes con plataformas y puentes colgantes,
+          muñecos de entrenamiento, dianas, torre de vigía, cascada con estanque, hojas cayendo.
+  [ ] 40. Las colisiones funcionan en cada mundo (portales, faroles, estanques, pilares, árboles, acantilado).
+  [ ] 41. El mapa muestra las formas de cada mundo (camino, estanque, ring, cascada).
+  [ ] 42. La pantalla de niveles guarda una miniatura real de cada mundo después de jugarlo.
+
+  [ ] 44. Botón "Explorar escenarios (sin villanos)": entra a cualquier mundo ya construido sin desbloquearlo.
+
+ENTREGAS 3 Y 4 - LOS 10 MUNDOS COMPLETOS (pruébelos en "Explorar escenarios")
+  [ ] 45. Nivel 5 - Festival de Verano: noche con estrellas, calle de puestos con letreros, faroles de papel,
+          pecera de goldfish, escalinata con santuario y fuegos artificiales en el cielo.
+  [ ] 46. Nivel 6 - Hangar Mecha: robot gigante con andamios, contenedores y cajas como cobertura,
+          franjas de advertencia, grúa que se mueve, luces de alarma y chispas de soldadura. Jefe.
+  [ ] 47. Nivel 7 - Academia de Magia: torres y murallas del castillo, biblioteca de arcos con libros,
+          fuente con cristal flotante, cristales que flotan y círculos mágicos que giran en el piso.
+  [ ] 48. Nivel 8 - Puerto Pirata: mar con olas, barco de vela que se mece, faro con luz giratoria,
+          muelles, palmeras, barriles, cañones, casas del puerto y gaviotas. No se puede entrar al mar.
+  [ ] 49. Nivel 9 - Ciudad Cyberpunk: lluvia, rascacielos con ventanas iluminadas, letreros de neón,
+          hologramas, autos voladores, charcos y barreras de concreto como cobertura. Jefe.
+  [ ] 50. Nivel 10 - Castillo del Rey Demonio: ríos de lava que hacen daño al pisarlos (salte para cruzar),
+          castillo de obsidiana, estatuas, braseros, islas flotantes con cadenas y brasas. Jefe final.
+
+ACTUALIZACIÓN DE DETALLES
+  [ ] 51. Caminar: las piernas dan pasos marcados, con rodillas y brazos en movimiento (nada de "levitar").
+  [ ] 52. Correr (Shift, L3 o joystick al máximo en el teléfono): pasos largos, cuerpo inclinado, más velocidad.
+  [ ] 53. Salto: toque corto = salto bajo; mantener el botón = salto más alto.
+  [ ] 54. Mando con la distribución nueva (vea la tabla de arriba).
+  [ ] 55. Poder especial (E, Triángulo o botón Poder): se carga con el tiempo y al derrotar villanos;
+          al estar lleno, lanza una onda de energía que daña y empuja a los villanos cercanos.
+  [ ] 56. Los villanos ya no salen de la tierra: aparecen caminando por las puertas de casas y entradas,
+          o detrás de rocas, árboles y construcciones.
+  [ ] 57. Pantalla de inicio nueva: su personaje al frente, botón Jugar, y pestañas Personaje, Villanos,
+          Armas, Partida, Transmisión y Diagnóstico.
+
+CORRECCIONES (colisiones, Festival y pantalla de juego)
+  [ ] 58. Festival de Verano: se ve bien iluminado sin perder el ambiente nocturno.
+  [ ] 59. Arena: no se puede subir al ring caminando por el costado; se sube por la escalera (lado sur)
+          o saltando. Al salir del ring por el borde, el personaje cae al piso.
+  [ ] 60. En todos los mundos nuevos no se atraviesan postes, columnas, muros, muñecos, bancas,
+          puestos, estatuas, cañones ni contenedores. En el Puerto se puede caminar por los muelles.
+  [ ] 61. Pantalla de juego más grande: su personaje con barra de vida, y a la derecha el nivel, el
+          nombre del mundo, los villanos que faltan y las monedas. Mapa más grande.
+  [ ] 62. En el teléfono, nada queda encimado (paneles, mapa, insignia EN VIVO y botones).
+
+DIAMANTES, RUBÍES, AVES Y MUNDOS MÁS GRANDES
+  [ ] 63. Ciudad Cyberpunk y Castillo del Rey Demonio se ven bien iluminados.
+  [ ] 64. En cada mundo hay rubíes (rojos) y diamantes (celestes) brillando sobre rocas, contenedores,
+          pilares y muros bajos. También aparecen en el mapa.
+  [ ] 65. Al dispararles caen al suelo; al tocarlos el efecto es inmediato:
+          rubí = +5 % de vida; diamante = +10 monedas (y además munición extra).
+  [ ] 66. Aves volando en bandadas (Valle, Santuario, Arena, Aldea Ninja, Hangar), aves violetas en
+          la Academia y murciélagos en el Castillo. El Puerto tiene sus gaviotas.
+  [ ] 67. Los mundos son más grandes (unos 6 m más de radio) con árboles, rocas y cajas nuevas,
+          y no se atraviesa ninguno de los elementos nuevos.
+
+MÚSICA, CONTROLES Y MÁS VILLANOS
+  [ ] 68. Pestaña "Música": cargar sus .mp3 (quedan guardados), elegir "Aleatoria" o "La que elija",
+          volumen, escuchar y quitar canciones. La música suena al jugar, se pausa en la pausa y
+          pasa a la siguiente canción al terminar (en modo aleatorio).
+  [ ] 69. Pestaña "Controles": elegir Teclado y mouse, Mando (joystick) o Táctil.
+          Con "Mando" el juego empieza sin pedir clic con el mouse.
+  [ ] 70. Con el mando conectado se ven sus ejes en vivo. Si la cámara no gira con el stick derecho,
+          pulse "Calibrar stick derecho" y siga los 2 pasos. También: sensibilidad e invertir eje vertical.
+  [ ] 71. Modo Niveles: el doble de villanos por nivel (10 en el nivel 1 hasta 46 en el nivel 10).
+
+  [ ] 72. En "Controles", el recuadro de prueba: al mover el stick derecho, la mira se mueve.
+          Si no, use "Calibrar stick derecho"; si su joystick tiene una sola palanca, elija "Un stick".
+  [ ] 73. En el juego: el stick derecho gira la cámara y mueve la mira; el izquierdo a fondo hace correr.
+
+ESPADA, PATADA Y BOTONES CONFIGURABLES
+  [ ] 74. La Espada viene incluida (Armas: "Incluida"). Con el botón de disparo da un tajo que daña
+          a los villanos cercanos y lanza una onda de energía en media luna que corta a distancia.
+          No usa munición (∞).
+  [ ] 75. Patada: tecla G, botón táctil "Patada" o R3 en el mando. Más daño y empuja más que el golpe.
+  [ ] 76. Controles > Botones del mando: al presionar un botón se ilumina su nombre; "Asignar" cambia
+          el botón de cualquier función (incluida la cámara 1.ª/3.ª persona). "Restablecer botones"
+          vuelve a la distribución original.
+
+MÁS VILLANOS Y RESUMEN DE NIVEL
+  [ ] 77. Más villanos por nivel (de 12 en el nivel 1 a 55 en el nivel 10) y más a la vez (de 3 a 7).
+  [ ] 78. Algunos villanos corren directo hacia usted; todos lo buscan.
+  [ ] 79. Al terminar un nivel aparece el resumen (villanos, monedas, diamantes, rubíes, puntos,
+          tiempo, precisión y vida) y en 8 segundos empieza solo el siguiente nivel
+          ("Continuar ahora" para no esperar).
+
+  [ ] 80. Resistencia de los villanos (triplicada): Fácil 300, Normal 390, Difícil 507; los jefes, el triple de eso.
+
+JEFES EN TODOS LOS NIVELES
+  [ ] 81. Al final de cada nivel aparece un jefe (elegido al azar entre sus villanos) del doble del
+          tamaño de su personaje; en los niveles 3, 6 y 9 es un jefe gigante del triple.
+  [ ] 82. Nivel 10: salen tres jefes seguidos, de ×2, ×3 y ×4.
+  [ ] 83. Los jefes aguantan el triple que un villano normal, golpean más seguido y más fuerte,
+          alcanzan desde más lejos y casi no retroceden.
+
+VILLANOS ÁGILES Y MENÚS CON MANDO
+  [ ] 84. Los villanos saltan para subir a plataformas (por ejemplo al ring de la Arena) y caen al bajar.
+  [ ] 85. A veces esquivan un disparo con un salto lateral ("¡Esquivó!"): más en Difícil, menos en Fácil;
+          los jefes casi no esquivan. La escopeta y las explosiones no se pueden esquivar.
+  [ ] 86. Todos los menús se manejan solo con el mando: el botón principal ya viene seleccionado
+          (por ejemplo "Continuar ahora" al terminar un nivel), el seleccionado se ve con borde dorado
+          y abajo aparece la guía de botones. Los deslizadores (volumen, sensibilidad) se ajustan con ◀ ▶.
+
+ARSENAL «ACERO AZUR», EQUIPAMIENTO Y ARMAS PROPIAS
+  [ ] 87. Al pulsar Jugar aparece la pantalla de Equipamiento: su personaje en 3D con el arma en la mano,
+          en la sala del arsenal. Se gira arrastrando (o con el stick derecho) y se acerca con la rueda.
+  [ ] 88. Cuatro ranuras: Principal, Secundaria, Cuerpo a cuerpo y Pesada. Al elegir un arma, el
+          personaje la sostiene y se ven sus barras de daño, cadencia, alcance y precisión.
+  [ ] 89. Colores de las armas: Azur, Carmesí, Dorado y Sakura.
+  [ ] 90. 12 armas: Espada Azur (combo, el 3.er tajo lanza onda), Mandoble Eclipse, Lanza Relámpago
+          (el 3.er ataque lanza rayo), Báculo Órbita (esferas que persiguen), Pistola Chispa, Revólver
+          Trueno, Subfusil Avispa, Rifle Halcón, Rifle láser Prisma (atraviesa), Escopeta Rompemuros,
+          Francotirador Lince (mira telescópica, atraviesa) y Cañón Supernova.
+  [ ] 91. Mira con zoom (clic derecho / L2 / botón "Mira"), recarga animada, casquillos, destello que
+          ilumina, mira en pantalla según el arma y rueda de armas (mantener Q o Círculo).
+  [ ] 92. "Cargar arma .glb": la arma propia se orienta sola, se ajusta (tamaño, giro, posición,
+          invertir) y se elige cómo se usa (por ejemplo, como Rifle Halcón o como Espada Azur).
+
+ESCENARIOS MÁS GRANDES Y VILLANOS QUE NO SE ATASCAN
+  [ ] 93. Los escenarios son más grandes (Valle 40 m de radio, Santuario 42, Aldea Ninja/Festival/Puerto 40,
+          Hangar 38, Cyberpunk 36, Castillo 39) con más árboles, rocas y elementos en la zona nueva.
+  [ ] 94. Los villanos rodean casas, rocas y árboles por el camino más corto y llegan hasta usted;
+          si alguno queda trabado, se libera saltando o moviéndose de lado.
+
+Cuando todo esté marcado, siga LEEME-GITHUB.txt para publicarla.
+Si algo falla, anote el número del punto y envíe una captura.
